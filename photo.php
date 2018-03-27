@@ -27,7 +27,7 @@ getHeader($photo["titre"], "Description de la photo");
 
 <form method="post" action="insert-commentaire.php">
     <textarea name="commentaire"></textarea>
-    <input type="hidden" name="photo_id" value="<?php echo $id;?>">
+    <input type="hidden" name="photo_id" value="<?php echo $id;b?>">
     <input type="submit">
 </form>
 
