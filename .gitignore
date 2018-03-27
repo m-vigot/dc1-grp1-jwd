@@ -2,4 +2,4 @@
 *.bak
 config/parameters.php
 nbproject/
-.idea/
+idea/
